@@ -1,0 +1,4 @@
+2019-02-10 17:38:32.5577|INFO|MyDutchUncle.Controllers.AccountCreationController|Hello World
+2019-02-10 17:41:42.6696|INFO|MyDutchUncle.Controllers.AccountCreationController|Hello World
+2019-02-10 17:42:23.6738|INFO|MyDutchUncle.Controllers.AccountCreationController|Hello World
+2019-02-10 17:49:30.1113|INFO|MyDutchUncle.Controllers.AccountCreationController|Hello World

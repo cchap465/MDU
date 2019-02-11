@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MyDutchUncle.Core\MyDutchUncle.Core.csproj" />
+    <ProjectReference Include="..\MyDutchUncle.DataAccess\MyDutchUncle.DataAccess.csproj" />
+  </ItemGroup>
+
+</Project>
