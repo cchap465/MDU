@@ -7801,11 +7801,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\mydutchuncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj",
+      "projectUniqueName": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj",
       "projectName": "MyDutchUncle.Configuration",
-      "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj",
+      "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj",
       "packagesPath": "C:\\Users\\criss\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Configuration\\obj\\",
+      "outputPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Configuration\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -7824,14 +7824,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj"
             },
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.Manufacture\\MyDutchUncle.Manufacture.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Manufacture\\MyDutchUncle.Manufacture.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Manufacture\\MyDutchUncle.Manufacture.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Manufacture\\MyDutchUncle.Manufacture.csproj"
             },
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj"
             }
           }
         }

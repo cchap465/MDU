@@ -34,3 +34,15 @@ C:\Git\mydutchuncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle
 C:\Git\mydutchuncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.csproj.CopyComplete
 C:\Git\mydutchuncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.dll
 C:\Git\mydutchuncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\bin\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.deps.json
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\bin\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\bin\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.csprojAssemblyReference.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.AssemblyInfoInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.AssemblyInfo.cs
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.csproj.CopyComplete
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.DataAccess\obj\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.pdb

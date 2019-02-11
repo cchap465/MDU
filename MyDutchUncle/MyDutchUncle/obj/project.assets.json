@@ -12906,11 +12906,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\mydutchuncle\\MyDutchUncle\\MyDutchUncle.csproj",
+      "projectUniqueName": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle\\MyDutchUncle.csproj",
       "projectName": "MyDutchUncle",
-      "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle\\MyDutchUncle.csproj",
+      "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle\\MyDutchUncle.csproj",
       "packagesPath": "C:\\Users\\criss\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\mydutchuncle\\MyDutchUncle\\obj\\",
+      "outputPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12929,11 +12929,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Configuration\\MyDutchUncle.Configuration.csproj"
             },
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj"
             }
           }
         }

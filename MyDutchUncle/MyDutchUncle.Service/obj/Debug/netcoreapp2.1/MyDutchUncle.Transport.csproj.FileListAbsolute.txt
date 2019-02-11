@@ -40,3 +40,17 @@ C:\Git\mydutchuncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Tr
 C:\Git\mydutchuncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.csproj.CopyComplete
 C:\Git\mydutchuncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.dll
 C:\Git\mydutchuncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.Transport.deps.json
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.Transport.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.Transport.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\bin\Debug\netcoreapp2.1\MyDutchUncle.DataAccess.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.csprojAssemblyReference.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.csproj.CoreCompileInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.AssemblyInfoInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.AssemblyInfo.cs
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.csproj.CopyComplete
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Service\obj\Debug\netcoreapp2.1\MyDutchUncle.Transport.pdb

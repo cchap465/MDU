@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\mydutchuncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj",
+      "projectUniqueName": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj",
       "projectName": "MyDutchUncle.Core",
-      "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj",
+      "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj",
       "packagesPath": "C:\\Users\\criss\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Core\\obj\\",
+      "outputPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Core\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

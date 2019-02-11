@@ -729,11 +729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj",
+      "projectUniqueName": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj",
       "projectName": "MyDutchUncle.Transport",
-      "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj",
+      "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\MyDutchUncle.Transport.csproj",
       "packagesPath": "C:\\Users\\criss\\.nuget\\packages\\",
-      "outputPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Service\\obj\\",
+      "outputPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -752,11 +752,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.Core\\MyDutchUncle.Core.csproj"
             },
-            "C:\\Git\\mydutchuncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj": {
-              "projectPath": "C:\\Git\\mydutchuncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj"
+            "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj": {
+              "projectPath": "C:\\Users\\criss\\OneDrive\\Documents\\GitHub\\MDU\\MyDutchUncle\\MyDutchUncle.DataAccess\\MyDutchUncle.DataAccess.csproj"
             }
           }
         }

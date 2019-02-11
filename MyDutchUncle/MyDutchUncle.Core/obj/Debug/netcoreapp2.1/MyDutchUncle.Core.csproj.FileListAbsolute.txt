@@ -25,3 +25,12 @@ C:\Git\mydutchuncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.
 C:\Git\mydutchuncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.AssemblyInfo.cs
 C:\Git\mydutchuncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.dll
 C:\Git\mydutchuncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.deps.json
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\bin\Debug\netcoreapp2.1\MyDutchUncle.Core.pdb
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.csprojAssemblyReference.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.csproj.CoreCompileInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.AssemblyInfoInputs.cache
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.AssemblyInfo.cs
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.dll
+C:\Users\criss\OneDrive\Documents\GitHub\MDU\MyDutchUncle\MyDutchUncle.Core\obj\Debug\netcoreapp2.1\MyDutchUncle.Core.pdb
